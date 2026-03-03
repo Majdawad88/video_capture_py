@@ -1,7 +1,4 @@
-#git clone https://github.com/Majdawad88/video_capture_py.git
 
-# Installation Command:
-# !git clone https://github.com/Majdawad88/video_capture_py.git
 
 # Installation Command:
 # !git clone https://github.com/Majdawad88/video_capture_py.git
